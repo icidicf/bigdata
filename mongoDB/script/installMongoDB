@@ -1,3 +1,5 @@
 #!/bin/bash
 
+
+#http://api.mongodb.org/python/current/installation.html
 sudo pip install pymongo
